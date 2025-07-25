@@ -1,7 +1,7 @@
 <h1 align="center"> Desafio do Amigo Secreto </h1>
-(assets/desafio-amigo-secreto.png)
+![Imagem logo do projeto](assets/desafio-amigo-secreto.png)
 <p align="center">
-  https://img.shields.io/badge/Ultima%20Vers%C3%A3o-Julho-brightgreen
+  ![Badge versão](https://img.shields.io/badge/Lan%C3%A7amento-Julho%202025-brightgreen)
 </p>
 
 Este projeto é uma ferramenta simples e eficiente para classificar participantes de um amigo secreto. Diga adeus aos papéis e chapéus! Com esta aplicação, você pode facilmente gerenciar os participantes e realizar o sorteio de forma justa e rápida. Ideal para festas de fim de ano, confraternizações ou qualquer evento que envolva um amigo oculto.
