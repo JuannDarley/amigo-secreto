@@ -54,3 +54,9 @@ function sortearAmigo() {
     
 }
 
+function reiniciarSorteio(){
+    limparLista();
+    let resultado = document.getElementById('resultado');
+    resultado.innerHTML = '';
+    limparCampo();
+}
